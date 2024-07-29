@@ -1,0 +1,1 @@
+Day 2: Learn about Strings and its inbuilt functions.
